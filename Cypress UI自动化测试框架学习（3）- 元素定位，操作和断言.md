@@ -168,7 +168,9 @@ Cypress.$.post`
 
 - 示例代码
 
+
 `cy.get('color').select('red') // 颜色选项中选择红色`
+
 
 ### .check()/.uncheck()
 
