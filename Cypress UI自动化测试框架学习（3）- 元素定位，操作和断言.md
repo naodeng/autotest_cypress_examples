@@ -164,7 +164,7 @@ Cypress.$.post`
 
 ### .select()
 
-- 描述：针对<select>元素选择一个选项
+- 描述：针对select元素选择一个选项
 
 - 示例代码
 
