@@ -1,0 +1,19 @@
+{
+  "name": "cypress_demo",
+  "version": "0.0.1",
+  "description": "cypress demo project",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "waitnoww",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
